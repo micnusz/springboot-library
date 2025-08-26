@@ -62,4 +62,8 @@ public class Book {
     public void setPages(int pages) {
         this.pages = pages;
     }
+
+    public void setId(Long id) {
+        this.id = id;
+    }
 }
